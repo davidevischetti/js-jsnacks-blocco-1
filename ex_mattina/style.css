@@ -1,0 +1,17 @@
+#numbers {
+    height: 200px;
+    line-height: 200px;
+    vertical-align: middle;
+    text-align: center;
+    color: #eee;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+.red {
+    background-color: #900;
+}
+
+.green {
+    background-color: #090;
+}
